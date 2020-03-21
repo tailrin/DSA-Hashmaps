@@ -1,0 +1,23 @@
+{
+  "name": "DSA-Hashmaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HashMap-work.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "git add .",
+    "commit": "git commit -m ",
+    "postcommit": "git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailrin/DSA-Hashmaps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tailrin/DSA-Hashmaps/issues"
+  },
+  "homepage": "https://github.com/tailrin/DSA-Hashmaps#readme"
+}
